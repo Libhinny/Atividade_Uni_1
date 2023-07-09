@@ -1,4 +1,4 @@
-#include <stdio.h>l
+#include <stdio.h>
 
 int main (void){
     int x, y, *p;

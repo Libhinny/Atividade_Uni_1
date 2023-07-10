@@ -28,5 +28,6 @@ for (i = 0; i < n; i++){
         printf("\n");
     }
 
+    free(matriz);
     return 0;
 }
